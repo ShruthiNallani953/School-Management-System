@@ -15,7 +15,7 @@ while True:
          print("1 : Admission Management")
          print("2 : Student Data")
          print("3 : Teachers Data")
-                  print("4 : Fee Details")
+         print("4 : Fee Details")
          print("5 : Exit")
          print("\t\t-----------------------------------------------------------------------")
          choice=int(input("Enter your choice:"))
