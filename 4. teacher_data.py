@@ -23,7 +23,7 @@ def TCH_MENU():
             elif choice==4:
                   delete_teacher_details()
             elif choice==5:
-break
+                  break
             else:
                   print("Error : Invalid choice ..... Try Again .....")
                   cont=input("Press any key to continue:")
